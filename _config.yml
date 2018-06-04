@@ -1,14 +1,14 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Suiyun Zhang
+url: "https://zhsuiy.github.io/"
+baseurl: ""
 
 markdown: kramdown
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/bk2dcradle"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/zhsuiy"
+footer_text: ""
 
 sass:
     style: compressed

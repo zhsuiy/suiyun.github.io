@@ -2,24 +2,20 @@
 layout: default
 ---
 
-## About Me
+## Biography
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am currently a fifth-year Ph.D candidate of School of Software, Tsinghua University. My supervisor is Prof. Hui Zhang. Prior to that, I received my Bachelor's degree from Sun Yat-Sen University in 2013.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research interest includes 3D indoor scene understanding, modeling and enhancement.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Zhang S, Han Z, Zhang H. User guided 3D scene enrichment[C]// ACM SIGGRAPH Conference on Virtual-Reality Continuum and ITS Applications in Industry. ACM, 2016:353-362.
+2. Zhang S, Han Z, Martin R R, et al. Semantic 3D indoor scene enhancement using guide words[J]. Visual Computer, 2017:1-11.
 
-## Typography
+## Experiences
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 

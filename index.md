@@ -4,7 +4,7 @@ layout: default
 
 ## Biography
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="suiyun.jpg">
 
 I am currently a fifth-year Ph.D candidate of School of Software, Tsinghua University. My supervisor is Prof. Hui Zhang. Prior to that, I received my Bachelor's degree from Sun Yat-Sen University in 2013.
 

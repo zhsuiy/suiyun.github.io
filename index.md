@@ -13,17 +13,16 @@ My research interest includes 3D indoor scene understanding, modeling and enhanc
 ## Publications
 
 <img class="project-picture" src="suiyun.jpg">
-1. Zhang S, Han Z, Zhang H. User guided 3D scene enrichment[C]// ACM SIGGRAPH Conference on Virtual-Reality Continuum and ITS Applications in Industry. ACM, 2016:353-362
-```html
-</br>
-</br>
-</br>
-</br>
-</br>
-```
+User guided 3D scene enrichment  
+Suiyun Zhang, Zhizhong Han and Hui Zhang  
+Proceedings on Virtual-Reality Continuum and ITS Applications in Industry (VRCAI), 2016  
+[DOI](https://doi.org/10.1145/3013971.3014002 "paper") [slides](enrichment.pdf)
 
 <img class="project-picture" src="suiyun.jpg">
-2. Zhang S, Han Z, Martin R R, et al. Semantic 3D indoor scene enhancement using guide words[J]. Visual Computer, 2017:1-11.
+Semantic 3D indoor scene enhancement using guide words
+Suiyun Zhang, Zhizhong Han, Ralph Martin and Hui Zhang 
+Visual Computer, 2017:1-11
+[DOI](https://doi.org/10.1007/s00371-017-1394-5, "paper") [slides](enhancement.pdf)
 
 
 ## Experiences

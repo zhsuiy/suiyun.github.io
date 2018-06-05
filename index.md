@@ -12,23 +12,20 @@ My research interest includes 3D indoor scene understanding, modeling and enhanc
 
 ## Publications
 
-<div>
+
 <img class="project-picture" src="enrichment.png">
 User Guided 3D Scene Enrichment  
 **Suiyun Zhang**, Zhizhong Han and Hui Zhang  
 Proceedings on Virtual-Reality Continuum and ITS Applications in Industry (VRCAI), 2016  
-\[[DOI](https://doi.org/10.1145/3013971.3014002 "paper")\] \[[slides](enrichment.pdf)\]  
-</div>
+\[[DOI](https://doi.org/10.1145/3013971.3014002 "paper")\] \[[slides](enrichment.pdf)\]
   
-<div>
+  
+  
 <img class="project-picture" src="enhancement.png"> 
 Semantic 3D Indoor Scene Enhancement Using Guide Words  
 **Suiyun Zhang**, Zhizhong Han, Ralph Martin and Hui Zhang  
 Visual Computer, 2017:1-11  
-\[[DOI](https://doi.org/10.1007/s00371-017-1394-5, "paper")\] \[[slides](enhancement.pdf)\]
-</div>
-  
-  
+\[[DOI](https://doi.org/10.1007/s00371-017-1394-5, "paper")\] \[[slides](enhancement.pdf)\]  
   
 
 ## Experiences

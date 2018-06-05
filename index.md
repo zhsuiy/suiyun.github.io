@@ -25,7 +25,10 @@ Semantic 3D Indoor Scene Enhancement Using Guide Words
 **Suiyun Zhang**, Zhizhong Han, Ralph Martin and Hui Zhang  
 Visual Computer, 2017:1-11  
 \[[DOI](https://doi.org/10.1007/s00371-017-1394-5, "paper")\] \[[slides](enhancement.pdf)\]
-
+  
+  
+  
+  
 
 ## Experiences
 

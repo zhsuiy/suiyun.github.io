@@ -19,7 +19,7 @@ Proceedings on Virtual-Reality Continuum and ITS Applications in Industry (VRCAI
 \[[DOI](https://doi.org/10.1145/3013971.3014002 "paper")\] \[[slides](enrichment.pdf)\]  
 
 
-<img class="project-picture" src="enhancement.jpg"> 
+<img class="project-picture" src="enhancement.png"> 
 Semantic 3D Indoor Scene Enhancement Using Guide Words  
 **Suiyun Zhang**, Zhizhong Han, Ralph Martin and Hui Zhang  
 Visual Computer, 2017:1-11  
